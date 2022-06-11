@@ -1,4 +1,4 @@
-I am (hopefully) wholesome. I am (not) ghoul. I am wholesome ghoul.
+Oi oi oi
 
 <!---
 wholesome-ghoul/wholesome-ghoul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
